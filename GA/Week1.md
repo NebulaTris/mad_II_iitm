@@ -3,11 +3,11 @@
 1) Which of the following keywords can be used to declare a variable with global scope?
 - [ ] let
 
-- [x] var
+- [ ] var
 
 - [ ] const
 
-- [ ] All of the above
+- [x] All of the above
 ____
 2) Which of the following statements is true regarding JavaScript language?
 
@@ -15,15 +15,15 @@ ____
 
 - [x] JavaScript is a dynamically typed language.
 
-- [ ] JavaScript is a weakly typed language.
+- [x] JavaScript is a weakly typed language.
 
 - [ ] JavaScript is a strongly typed language.
 ____
 3) Which of the following statement(s) is/are correct regarding JavaScript?
 
-- [ ] It is a forgiving language like HTML.
+- [x] It is a forgiving language like HTML.
 
-- [ ] It inserts a semicolon after each statement automatically.
+- [x] It inserts a semicolon after each statement automatically.
 
 - [x] Blocks and functions both use { } for body contents.
 
