@@ -9,9 +9,9 @@
 
 - [ ] Error
 
-- [x] [5, 22, 55, 75]
+- [ ] [5, 22, 55, 75]
 
-- [ ] [22, 5, 55, 75]
+- [x] [22, 5, 55, 75]
 ____
 2) What will be the output of the following program?
 ```js
@@ -200,9 +200,9 @@ setTimeout(() => {
 ```
 Assuming that the index.html and script.js are kept inside the same directory, then what will be the  height of the HTML element having ID ‘div1’ after 20 seconds, if rendered using a browser?
 
-- [ ] 500px
+- [x] 500px
 
-- [x] 1000px
+- [ ] 1000px
 
 - [ ] 0px
 
