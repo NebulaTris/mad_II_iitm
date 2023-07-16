@@ -1,10 +1,10 @@
 # Modern Application Development 2 - IITM :sparkles:
 
-This repository contains the solutions for the graded assignments and JavaScript programming assignments of the Modern Application Development 2 course offered by IIT Madras as a part of the BS in Data Science and Programming program.
+This repository contains the notes and solutions for the graded assignments and JavaScript programming assignments of the Modern Application Development 2 course offered by IIT Madras as a part of the BS in Data Science and Programming program.
 
 ## Course Description
 
-Modern Application Development 2 is an advanced course that focuses on developing modern web applications using JavaScript. The course covers various topics such as front-end development, back-end development, database integration, and deployment. Through the assignments, students will gain hands-on experience in building real-world web applications and enhancing their JavaScript programming skills.
+Modern Application Development 2 is an advanced course that focuses on developing modern web applications using JavaScript and Vue. The course covers various topics such as front-end development, back-end development, database integration, and deployment. Through the assignments, students will gain hands-on experience in building real-world web applications and enhancing their JavaScript programming skills.
 
 ## Repository Structure
 
@@ -12,6 +12,7 @@ The repository is organized into the following directories:
 
 - `GA`: Contains the solutions for the graded assignments given throughout the course.
 - `JavaScript GA`: Contains the solutions for the JavaScript programming assignments that require implementing specific functionalities using JavaScript.
+- `Notes`: Contains notes of the course.
 
 ## Getting Started
 
